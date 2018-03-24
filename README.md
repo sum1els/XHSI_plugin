@@ -3,7 +3,7 @@
 
 This is an XHSI plug-in project for Visual Studio.
 
-I created this to implement support for the Zibo 737 MOD. In essence my own XHSI MOD.
+I created this Visual Studio project to implement support for the Zibo 737 MOD. In essence my own XHSI MOD, so hopefully it can be useful to somebody else too.
 
 The original developers of XHSI (link below) already did such an amazing job with this software, but I would like to update the GUI and add support for more datarefs (especially the Zibo737).
 
